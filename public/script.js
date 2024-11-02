@@ -5,7 +5,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchButton = document.getElementById('search-button');
     const MAX_CHAR_LIMIT = 100;
 
-    // Generate 25,000 boxes (50x500 grid)
     for (let i = 0; i < 25000; i++) {
         const box = document.createElement('div');
         box.classList.add('grid-box');
@@ -14,7 +13,6 @@ document.addEventListener('DOMContentLoaded', () => {
         gridContainer.appendChild(box);
     }
 
-    // Search functionality
     searchButton.addEventListener('click', searchBox);
     searchInput.addEventListener('keypress', (e) => {
         if (e.key === 'Enter') {

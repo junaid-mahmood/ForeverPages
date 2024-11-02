@@ -15,7 +15,6 @@ app.use('/uploads', express.static('uploads'));
 const dataFile = path.join(__dirname, 'data.json');
 const uploadsDir = path.join(__dirname, 'uploads');
 
-// Initialize data file and uploads directory if they don't exist
 async function initialize() {
     try {
         await fs.access(dataFile);
