@@ -1,6 +1,8 @@
 # ForeverPages
 
-ForeverPages is a web-based application that allows users to upload images or text, organize them in boxes, and search for specific content—essentially a dynamic, interactive bulletin board for the internet. Built with simplicity and efficiency in mind, it combines a Node.js backend with a responsive frontend for smooth user experiences across devices.
+ForeverPages is a web-based application that allows users to upload images or text, organize them in boxes, and search for specific content.
+
+#Its a bulletin board for the internet. 
 
 ## Features
 
