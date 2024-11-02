@@ -17,7 +17,7 @@ ForeverPages is a web-based application that allows users to upload images or te
     cd ForeverPages
     npm install
     npm start
- ```
+ 
 
 ## Technologies
 
