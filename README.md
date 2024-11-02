@@ -2,7 +2,7 @@
 
 ForeverPages is a web-based application that allows users to upload images or text, organize them in boxes, and search for specific content.
 
-#Its a bulletin board for the internet. 
+# Its a bulletin board for the internet. 
 
 ## Features
 
